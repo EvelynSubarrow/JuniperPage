@@ -21,6 +21,10 @@ See under "Protocols" for more options.
 
 
 ```
+Instructions are listed below to Pass a PIN and MESSAGE to the executable:
+
+FOR ONE-WAY CUSTOMERS:
+
 HTTP POST to http://www.usamobility.net/cgi-bin/wwwpage.exe
 
 VALUES ARE:
